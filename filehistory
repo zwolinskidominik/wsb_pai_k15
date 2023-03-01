@@ -1,0 +1,4 @@
+    1  git clone https://github.com/zwolinskidominik/wsb_pai_k15.git
+    2  alias c=clear
+    3  history
+    4  history > filehistory
